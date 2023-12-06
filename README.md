@@ -1,4 +1,4 @@
-## Hello World, I'm <a href="https://lambirou.github.io/">Roland Edi</a> ! 👋
+## Hello World, I'm <a href="https://lambirou.github.io/">Mohamed Doumbia</a> ! 👋
 
 Web / Mobile developer, Web designer.
 
